@@ -1,0 +1,10 @@
+TgCrypto
+pyrogram==2.0.97
+motor
+aiofiles
+dnspython
+psutil
+Pyromod
+pymongo
+aiohttp
+pyshorteners
